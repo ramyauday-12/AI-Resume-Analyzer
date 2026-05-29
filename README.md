@@ -142,9 +142,31 @@ streamlit run app.py
 
 ---
 
+
+
 # Screenshots
 
-Add project screenshots here after deployment.
+## Home Dashboard
+
+![Home Dashboard](screenshots/Home_dark.png)
+
+---
+
+## Resume Analysis
+
+![Analysis](screenshots/Analysis_dark.png)
+
+---
+
+## Skills Detection
+
+![Skills](screenshots/Matched_skills_dark.png)
+
+---
+
+## Suggestions Section
+
+![Suggestions](screenshots/Suggestion_dark.png)
 
 ---
 
