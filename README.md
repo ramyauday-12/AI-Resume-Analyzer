@@ -1,4 +1,4 @@
-# AI Resume Analyzer + Job Matcher
+# AI Resume Analyzer and Job Matcher
 
 An AI-powered Resume Analyzer built using Python and Streamlit that compares resumes with Job Descriptions (JD), calculates ATS-style match scores, identifies missing skills, and provides improvement suggestions.
 
